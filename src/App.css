@@ -1,0 +1,28 @@
+.user-table {
+  background-color: black;
+  color: white;
+}
+
+th, td {
+  padding: 8px;
+}
+
+th {
+  background-color: #333;
+}
+
+th, td {
+  border: 1px solid #ddd;
+}
+
+tr:hover {
+  background-color: #555;
+}
+body{
+  background-color: black;
+}
+h1{
+  color: white;
+  text-align: center;
+  font-family: 'Chivo Mono', monospace;
+}
